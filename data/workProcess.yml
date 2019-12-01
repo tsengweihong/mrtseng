@@ -1,0 +1,16 @@
+step:
+  - title : "Step 1"
+    icon : "images/icons/png/005-phone.png"
+    content : "電話或LINE訊息聯絡"
+
+  - title : "Step 2"
+    icon : "images/icons/png/001-home.png"
+    content : "曾師傅到府進行丈量、提供樣本挑選"
+
+  - title : "Step 3"
+    icon : "images/icons/png/006-calendar.png"
+    content : "預約安裝時間"
+
+  - title : "Step 4"
+    icon : "images/icons/png/004-heart.png"
+    content : "曾師傅到府安裝、<br>成品完成！"

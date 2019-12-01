@@ -1,0 +1,343 @@
+# portfolio filter list
+list:
+  - title : "窗簾"
+    type : "窗簾"
+
+  - title : "椅套"
+    type : "椅套"
+
+  - title : "壁紙"
+    type : "壁紙"
+
+  - title : "地磚"
+    type : "地磚"
+
+# portfolio item
+item:
+  - image : "images/portfolio/Photo_00001.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "地磚"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00002.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00003.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  # - image : "images/portfolio/Photo_00004.jpg"
+  #   projectURL : "#"
+  #   projectType:
+  #     - type: "壁紙"
+  #     - type: "所有"
+
+  - image : "images/portfolio/Photo_00005.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00006.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00007.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00008.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00009.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  # - image : "images/portfolio/Photo_00010.jpg"
+  #   projectURL : "#"
+  #   projectType:
+  #     - type: "窗簾"
+  #     - type: "所有"
+
+  - image : "images/portfolio/Photo_00011.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  # - image : "images/portfolio/Photo_00012.jpg"
+  #   projectURL : "#"
+  #   projectType:
+  #     - type: "窗簾"
+  #     - type: "所有"
+
+  # - image : "images/portfolio/Photo_00013.jpg"
+  #   projectURL : "#"
+  #   projectType:
+  #     - type: "窗簾"
+  #     - type: "所有"
+
+  - image : "images/portfolio/Photo_00014.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00015.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+
+  - image : "images/portfolio/Photo_00016.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00017.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00018.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00019.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00020.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00021.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00022.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00023.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00024.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00025.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "地磚"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00026.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00027.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00028.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00029.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00030.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00031.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00032.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00033.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "地磚"
+
+  - image : "images/portfolio/Photo_00034.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  # - image : "images/portfolio/Photo_00035.jpg"
+  #   projectURL : "#"
+  #   projectType:
+  #     - type: "窗簾"
+  #     - type: "所有"
+
+  - image : "images/portfolio/Photo_00036.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00037.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00038.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00039.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00040.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00041.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00042.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00043.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00044.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00045.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00046.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00047.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00048.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00049.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00050.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00051.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00052.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00053.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00054.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "地磚"
+      - type: "所有"
+
+  - image : "images/portfolio/Photo_00055.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "壁紙"
+      - type: "所有"

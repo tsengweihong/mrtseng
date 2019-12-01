@@ -1,0 +1,209 @@
+# banner
+banner:
+  title : "曾師傅板橋窗簾傢飾"
+  socialLinks:
+    # - icon : "ti-facebook"
+    #   URL : "#"
+    #
+    # - icon : "ti-instagram"
+    #   URL : "#"
+    #
+    # - icon : "ti-dribbble"
+    #   URL : "#"
+    #
+    # - icon : "ti-twitter"
+    #   URL : "#"
+
+# about
+about:
+  enable : true
+  content : "物美價廉的客製化服務<br>來自三十年專業經驗的師傅<br>免費到府丈量、安裝<br>防焰、遮光、政府認證<br>服務地區：台北市、新北市"
+  button:
+    btnText : "了解更多"
+    URL : "/about"
+
+# skill
+skill:
+  enable : false
+  skillbar:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  item:
+    - logo : "images/experience/icons-01.png"
+      title : "窗簾"
+      company : "遮光簾、調光簾、百葉窗、對開窗簾
+      、紗簾、羅馬簾"
+      duration : ""
+
+    - logo : "images/experience/icons-02.png"
+      title : "椅套"
+      company : "各式材質椅套訂做"
+      duration : ""
+
+    - logo : "images/experience/icons-03.png"
+      title : "壁紙"
+      company : "素色、各式花樣，品質優良的壁紙"
+      duration : ""
+    - logo : "images/experience/icons-04.png"
+      title : "地磚"
+      company : "各式質感優良的塑膠地磚"
+      duration : ""
+
+# Services
+services:
+  enable : true
+  URL : "/portfolio"
+  item:
+    - logo : "images/Adobe/photo-01.png"
+      title : "百折簾"
+      company : "左右開合式的傳統布簾，經典大方、富有層次感，特別適合落地窗。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-06.png"
+      title : "羅馬簾"
+      company : "採取上下收放式的優雅設計，不佔室內空間、同時增添居家質感，樸素典雅中帶有溫馨氛圍，遮光效果更是一流。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-05.png"
+      title : "調光簾"
+      company : "兼具實用性及美觀度，以雙層捲簾組合而成，調光簾採取一段密織、一段鏤空的獨特設計，橫條紋視覺效果簡約又時尚，對於日光充足又高溫炎熱的臺灣夏季來說，調光簾十分受歡迎，遮光、透光隨心調整！"
+      duration : ""
+
+    - logo : "images/Adobe/photo-02.png"
+      title : "捲簾"
+      company : "使用空間極小、緊貼窗戶，風格極簡又清理方便，能爲任何房間或裝潢增添恰到好處的時尚質感。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-03.png"
+      title : "百葉窗"
+      company : "左右開合式的傳統布簾，經典大方、富有層次感，特別適合落地窗。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-04.png"
+      title : "紗簾"
+      company : "既可充分調節室內光線，亦可適度保護居家隱私，透過與窗簾的雙層組合，便可爲室內氛圍增添層次美感。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-08.png"
+      title : "塑膠地磚"
+      company : "耐磨、美觀、防焰，各式木質紋理的款式可供選擇，由專業師傅爲您安裝，將一片一片地磚細心貼上，能創造出仿似真實木頭地板的高級質感。"
+      duration : ""
+
+    - logo : "images/Adobe/photo-07.png"
+      title : "椅套臥榻"
+      company : "​以亞麻材質爲主的椅套或臥榻，容易清洗又不易起毛球。內裡使用高密度泡棉，能大大提升使用壽命。"
+      duration : ""
+
+
+    - logo : "images/Adobe/photo-09.png"
+      title : "壁紙"
+      company : "各種花樣、多種色彩的壁紙提供選擇，爲你的居家裝潢增添不凡質感。採取防焰設計，而且容易清潔，平常只需使用濕抹布擦拭，即可輕鬆保養。"
+      duration : ""
+
+# education
+education:
+  enable : false
+  item:
+    - title : "Masters in Space Travel"
+      year : "2019"
+      academy : "Masassusets Institute of Technology"
+
+# service
+service:
+  enable : true
+  item :
+    - title : "親自到府"
+      icon : "ti-home"
+      content : "資深師傅現場勘查丈量、提供樣本挑選，您無需走出家門，便可輕鬆訂妥居家裝潢"
+      highlighted : false
+
+    - title : "多樣選擇"
+      icon : "ti-agenda"
+      content : "從窗簾、地磚、壁紙到椅套，超過上千種布料材質的選擇，絕對能讓您找到最合心意的款式。"
+      highlighted : false
+
+    - title : "溫馨體貼"
+      icon : "ti-heart"
+      content : "曾師傅特別體貼社會上各式各樣需要關照的人，如果您屬於單親家庭、外地前來求學求職、或是來自於有困難的背景，我們將提供特別優惠。"
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : false
+  item:
+    - image : "images/portfolio/Photo_00001.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00002.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00003.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00004.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00005.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00006.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00007.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00008.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00009.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00010.jpg"
+      projectURL : "#"
+
+    - image : "images/portfolio/Photo_00011.jpg"
+      projectURL : "#"
+
+# testimonial
+# testimonial:
+#   enable : false
+#   item:
+#     - name : ""
+#       image : ""
+#       designation : ""
+#       content : ""
+
+# client slider
+# clientSlider:
+#   enable : true
+#   item:
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
+
+
+# blog
+# blog:
+#   enable : false

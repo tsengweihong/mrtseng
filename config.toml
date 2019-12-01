@@ -1,0 +1,73 @@
+baseURL = "https://kross.netlify.com"
+languageCode = "en-us"
+title = "曾師傅-板橋-窗簾-傢飾"
+theme = "kross-hugo-portfolio-template"
+summaryLength = "10"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+
+# navigation
+[menu]
+
+  [[menu.main]]
+  name = "關於本服務"
+  URL = "about"
+  weight = 2
+
+  # [[menu.main]]
+  # name = "Blog"
+  # URL = "blog"
+  # weight = 3
+
+  [[menu.main]]
+  name = "商品圖片"
+  URL = "portfolio"
+  weight = 4
+
+  [[menu.main]]
+  name = "聯絡方式"
+  URL = "contact"
+  weight = 5
+
+
+[params]
+logo = "images/logo.png"
+home = "首頁"
+# Meta data
+description = "This is meta description"
+author = "Andy M Lau"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = false
+
+  [params.contact]
+  enable = false
+  formAction = "#" #contact form works with formspree.io
+
+  [params.footer]
+  email = "(02) 8961-1135"
+  phone = "0952-106-219"
+  address = "0952106219"
