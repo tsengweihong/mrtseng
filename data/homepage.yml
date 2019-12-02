@@ -71,7 +71,7 @@ services:
   enable : true
   URL : "/portfolio"
   item:
-    - logo : "images/Adobe/photo-01.png"
+    - logo : "images/Adobe/photo-03.png"
       title : "百折簾"
       company : "左右開合式的傳統布簾，經典大方、富有層次感，特別適合落地窗。"
       duration : ""
@@ -91,7 +91,7 @@ services:
       company : "使用空間極小、緊貼窗戶，風格極簡又清理方便，能爲任何房間或裝潢增添恰到好處的時尚質感。"
       duration : ""
 
-    - logo : "images/Adobe/photo-03.png"
+    - logo : "images/Adobe/photo-01.png"
       title : "百葉窗"
       company : "左右開合式的傳統布簾，經典大方、富有層次感，特別適合落地窗。"
       duration : ""
