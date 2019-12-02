@@ -57,7 +57,7 @@ home = "首頁"
 description = "曾師傅板橋窗簾傢飾"
 author = "Andy M Lau"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
