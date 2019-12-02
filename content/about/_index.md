@@ -1,7 +1,7 @@
 ---
 title: "關於本服務"
 date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
+description: "曾師傅板橋窗簾傢飾"
 author : ""
 authorImage : "images/about/author.png"
 authorSignature : "images/about/signature.png"
