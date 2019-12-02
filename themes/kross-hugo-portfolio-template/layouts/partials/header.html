@@ -11,7 +11,31 @@
   gtag('config', 'UA-153672188-1');
 </script>
 
-  
+<script>
+  gtag('config', 'AW-823700300/zSvVCJDMgLYBEMzW4ogD', {
+    'phone_conversion_number': '0952106219'
+  });
+</script>
+
+<!-- Event snippet for 撥打電話（手機版網站） conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-823700300/q5vRCN3a9bUBEMzW4ogD',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
+
+
   <header class="navigation fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark">
       <!-- <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{.Site.Title}}"></a> -->
