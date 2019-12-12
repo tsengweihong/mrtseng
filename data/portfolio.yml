@@ -355,10 +355,10 @@ item:
       - type: "所有"
 
   - image : "images/portfolio/Photo_00058.jpg"
-      projectURL : "#"
-      projectType:
-        - type: "椅套"
-        - type: "所有"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
 
   - image : "images/portfolio/Photo_00059.jpg"
     projectURL : "#"
