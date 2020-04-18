@@ -410,3 +410,58 @@ item:
     projectType:
       - type: "窗簾"
       - type: "所有"
+  - image : "images/portfolio/Photo_00069.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00070.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00071.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00072.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00073.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00074.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00075.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00076.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00077.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00078.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00079.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
