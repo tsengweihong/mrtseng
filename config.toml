@@ -1,6 +1,6 @@
 baseURL = "https://mrtseng.com/"
 languageCode = "en-us"
-title = "曾師傅-板橋-窗簾-傢飾"
+title = "曾師傅-窗簾-傢飾"
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 
@@ -54,7 +54,7 @@ summaryLength = "10"
 logo = "images/logo.png"
 home = "首頁"
 # Meta data
-description = "曾師傅板橋窗簾傢飾"
+description = "曾師傅窗簾傢飾"
 author = "Andy M Lau"
 # Google Analitycs
 # googleAnalitycsID = "Your ID"
