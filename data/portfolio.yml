@@ -460,8 +460,58 @@ item:
     projectType:
       - type: "窗簾"
       - type: "所有"
-  - image : "images/portfolio/Photo_00079.jpg"
+  - image : "images/portfolio/Photo_00080.jpg"
     projectURL : "#"
     projectType:
       - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00081.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00082.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00083.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00084.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00085.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00086.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00087.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00088.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00089.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00090.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "椅套"
       - type: "所有"
