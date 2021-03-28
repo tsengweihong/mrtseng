@@ -216,12 +216,6 @@ item:
       - type: "窗簾"
       - type: "所有"
 
-  # - image : "images/portfolio/Photo_00035.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
-
   - image : "images/portfolio/Photo_00036.jpg"
     projectURL : "#"
     projectType:
@@ -580,28 +574,3 @@ item:
         projectType:
           - type: "窗簾"
           - type: "所有"
-  # - image : "images/portfolio/Photo_00091.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
-  # - image : "images/portfolio/Photo_00092.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
-  # - image : "images/portfolio/Photo_00093.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
-  # - image : "images/portfolio/Photo_00094.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
-  # - image : "images/portfolio/Photo_00095.jpg"
-  #   projectURL : "#"
-  #   projectType:
-  #     - type: "窗簾"
-  #     - type: "所有"
