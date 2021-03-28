@@ -504,11 +504,6 @@ item:
     projectType:
       - type: "椅套"
       - type: "所有"
-  - image : "images/portfolio/Photo_00090.jpg"
-    projectURL : "#"
-    projectType:
-      - type: "椅套"
-      - type: "所有"
   - image : "images/portfolio/Photo_00091.jpg"
     projectURL : "#"
     projectType:
@@ -554,18 +549,18 @@ item:
     projectType:
       - type: "窗簾"
       - type: "所有"
-  - image : "images/portfolio/Photo_000100.jpg"
-      projectURL : "#"
-      projectType:
-        - type: "窗簾"
-        - type: "所有"
-  - image : "images/portfolio/Photo_000101.jpg"
-      projectURL : "#"
-      projectType:
-        - type: "窗簾"
-        - type: "所有"
-  - image : "images/portfolio/Photo_000102.jpg"
-        projectURL : "#"
-        projectType:
-          - type: "窗簾"
-          - type: "所有"
+  - image : "images/portfolio/Photo_00100.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00101.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
+  - image : "images/portfolio/Photo_00102.jpg"
+    projectURL : "#"
+    projectType:
+      - type: "窗簾"
+      - type: "所有"
