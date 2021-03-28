@@ -509,11 +509,6 @@ item:
     projectType:
       - type: "椅套"
       - type: "所有"
-  - image : "images/portfolio/Photo_00090.jpg"
-    projectURL : "#"
-    projectType:
-      - type: "椅套"
-      - type: "所有"
   - image : "images/portfolio/Photo_00091.jpg"
     projectURL : "#"
     projectType:
