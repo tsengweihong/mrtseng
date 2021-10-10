@@ -117,6 +117,11 @@ services:
       company : "各種花樣、多種色彩的壁紙提供選擇，爲你的居家裝潢增添不凡質感。採取防焰設計，而且容易清潔，平常只需使用濕抹布擦拭，即可輕鬆保養。"
       duration : ""
 
+    - logo : "images/Adobe/photo-10.jpg"
+      title : "實木橫式拉門"
+      company : "簡約典雅，是隔間裝潢的好選擇，可用於臥房、客廳、廚房和浴室，風格多樣。"
+      duration : ""
+
 # education
 education:
   enable : false
