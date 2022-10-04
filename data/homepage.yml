@@ -17,9 +17,9 @@ banner:
 # about
 about:
   enable : true
-  content : "<br>本店收取振興五倍券，使用再享 7 折優惠！<br>物美價廉的客製化服務<br>來自三十年專業經驗的師傅<br>免費到府丈量、安裝<br>防焰、遮光、政府認證<br>服務地區：台北市、新北市、三峽北大特區"
+  content : "<br>來自三十年專業經驗的師傅<br>免費到府丈量、安裝<br>防焰、遮光、政府認證<br>服務地區：台北市、新北市、三峽北大特區<br>"
   button:
-    btnText : "了解更多"
+    btnText : "欲知價目表請點這裡了解更多"
     URL : "/about"
 
 # skill
